@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r,X as n}from"./chunks/framework.8aaf079c.js";const p=JSON.parse('{"title":"实用工具","description":"","frontmatter":{},"headers":[],"relativePath":"tools/tools.md","filePath":"tools/tools.md"}'),l={name:"tools/tools.md"},a=n("",3),s=[a];function d(c,i,g,x,o,y){return e(),r("div",null,s)}const f=t(l,[["render",d]]);export{p as __pageData,f as default};
